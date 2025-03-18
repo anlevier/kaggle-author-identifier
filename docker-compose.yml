@@ -1,0 +1,10 @@
+services:
+  training:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    container_name: contest_container
