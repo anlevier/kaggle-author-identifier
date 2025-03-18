@@ -1,3 +1,7 @@
+# Task Description
+
+https://uazhlt-ms-program.github.io/ling-582-fall-2024-course-blog/ashtonlevier/class-competition
+
 `git clone git@github.com:uazhlt-ms-program/ling-582-fall-2024-class-competition-code-anlevier.git`
 
 - Navigate to the root
